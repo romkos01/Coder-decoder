@@ -1,6 +1,5 @@
-# Coder-decoder
-Why is this coder algorythm so secure?
-I TESTED IN WINDOWS 10 BY POWERSHELL
+# Coder-decoder 
+ /I TESTED IN WINDOWS 10 BY POWERSHELL/ 
 
 What makes this coding algorithm so secure?
 Because it is almost impossible for repetition to occur.
